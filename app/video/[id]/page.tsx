@@ -1,9 +1,9 @@
 'use client';
 
 import React, { useEffect, useState } from 'react'
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import Btns from '@/app/components/bts';
-import VideoDescription from '@/app/components/videoDescription';
+import { Avatar, AvatarFallback, AvatarImage } from "../../../components/ui/avatar"
+import Btns from '../../components/bts';
+import VideoDescription from '../../components/videoDescription';
 import Link from 'next/link';
 
 
